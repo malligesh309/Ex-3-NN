@@ -1,6 +1,6 @@
 # NAME: MAlligesh M
 # REG NO: 212223230119
-# DATE: 
+# DATE: 12/08/2026
 
 # EX.NO : 3
 # Implementation of MLP for a non-linearly separable data
